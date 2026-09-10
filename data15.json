@@ -1,0 +1,11 @@
+[
+{"id":1,"fname":"sara","lname":"adel","city":"assuit","age":20},
+{"id":2,"fname":"ali","lname":"khaled","city":"assuit","age":20},
+{"id":3,"fname":"mostafa","lname":"mohamed","city":"assuit","age":23},
+{"id":5,"fname":"ahmed","lname":"mohamed","city":"assuit","age":20},
+{"id":6,"fname":"rodina","lname":"salah","city":"assuit","age":20},
+{"id":7,"fname":"mohamed","lname":"ali","city":"assuit","age":21},
+{"id":8,"fname":"islam","lname":"mohammed","city":"assuit","age":20},
+{"id":9,"fname":"ahmed","lname":"omar","city":"assuit","age":22},
+{"id":10,"fname":"omar","lname":"mostafa","city":"assuit","age":23}
+]
